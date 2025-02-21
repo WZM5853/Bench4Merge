@@ -51,6 +51,7 @@ How to use the Bench4Merge?
     ```bash
         python create_init.py
     ```
+
     We provide three implemented methods for comparison: RL method, RL combined with MPC method, and optimization based method. You can implement your personal algorithm based on this framework and compare with them.
 
     The existing model files can be obtained at：
@@ -65,6 +66,9 @@ How to use the Bench4Merge?
             trajectory_10.csv # Trajectory information of the last 10 frame
     ```
     You can watch a video of the merging process through vis2.ipynb
+    <h2 align="center">
+        <img src='./result/figure/result_video.png'>
+    </h2>
 
 
 # Comprehensive evaluation based on LLM
