@@ -31,7 +31,7 @@ How to use the Bench4Merge?
         # we make .ipynb for easier observation of the initial environment
         python create_init.py
     ```
-It should be noted that please download the initial environment files classified in this article first and place them in the corresponding directory:
+    It should be noted that please download the initial environment files classified in this article first and place them in the corresponding directory:
    ```bash
         Bench4Merge\ 
           DJI_init\
@@ -40,6 +40,6 @@ It should be noted that please download the initial environment files classified
             DJI_low_dhw_results.pkl
     ```
 
-Those files can be download at:
+    Those files can be download at:
 
 
