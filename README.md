@@ -27,4 +27,19 @@ To achieve the .pkl data, please clink this link:
 # Using Process
 How to use the Bench4Merge?
   - First, generate an initial environment
+    ```bash
+        # we make .ipynb for easier observation of the initial environment
+        python create_init.py
+    ```
+It should be noted that please download the initial environment files classified in this article first and place them in the corresponding directory:
+   ```bash
+        Bench4Merge\ 
+          DJI_init\
+            DJI_high_dhw_results.pkl
+            DJI_medium_dhw_results.pkl
+            DJI_low_dhw_results.pkl
+    ```
+
+Those files can be download at:
+
 
