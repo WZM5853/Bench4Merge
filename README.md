@@ -60,6 +60,18 @@ How to use the Bench4Merge?
             trajectory_1.csv # Trajectory information of the last 1 frame
             trajectory_10.csv # Trajectory information of the last 10 frame
     ```
+    You can watch a video of the merging process through vis2.ipynb
+
+
+# Comprehensive evaluation based on LLM
+
+This article uses the Alibaba Q-wen 70B large model as the evaluation, and the prompt design and calling method are as follows:
+
+```bash
+    python evaluate.py
+```
+
+
 
 
 
