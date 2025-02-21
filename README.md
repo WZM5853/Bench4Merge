@@ -73,7 +73,7 @@ How to use the Bench4Merge?
 
 # Comprehensive evaluation based on LLM
 
-This article uses the Alibaba Q-wen 70B large model as the evaluation, and the prompt design and calling method are as follows:
+This paper uses the Alibaba Q-wen 70B large model as the evaluation, and the prompt design and calling method are as follows:
 
 ```bash
     python evaluate.py
