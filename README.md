@@ -32,7 +32,7 @@ How to use the Bench4Merge?
         python create_init.py
     ```
     It should be noted that please download the initial environment files classified in this article first and place them in the corresponding directory:
-   ```bash
+    ```bash
         Bench4Merge\ 
           DJI_init\
             DJI_high_dhw_results.pkl
