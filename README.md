@@ -29,7 +29,6 @@ How to use the Bench4Merge?
   - First, generate an initial environment
     ```bash
         # we make .ipynb for easier observation of the initial environment
-        # you can select 
         python create_init.py
     ```
     It should be noted that please download the initial environment files classified in this article first and place them in the corresponding directory:
@@ -42,12 +41,26 @@ How to use the Bench4Merge?
         # You can choose which initial environment to extract in create_init.py
     ```
 
-    Those files can be download at:
+    Those files can be obtained at:
 
-  - Second, run the merging process base on the initial environment:
+  - Second, run the merging process base on the initial environment
     ```bash
         python create_init.py
     ```
+    We provide three implemented methods for comparison: RL method, RL combined with MPC method, and optimization based method. You can implement your personal algorithm based on this framework and compare with them.
+
+    The existing model files can be obtained at：
+
+  - Third, observe and analyze the merging process
+    The vehicle's trajectory is saved in:
+    ```bash
+        Bench4Merge\ 
+          result\
+            trajectory.csv # Trajectory information of the entire process
+            trajectory_1.csv # Trajectory information of the last 1 frame
+            trajectory_10.csv # Trajectory information of the last 10 frame
+    ```
+
 
 
 
