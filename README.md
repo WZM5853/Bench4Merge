@@ -31,6 +31,10 @@ How to use the Bench4Merge?
         # we make .ipynb for easier observation of the initial environment
         python create_init.py
     ```
+    <h2 align="center">
+        <img src='./result/figure/init_stat.png'>
+    </h2>
+    
     It should be noted that please download the initial environment files classified in this article first and place them in the corresponding directory:
     ```bash
         Bench4Merge\ 
