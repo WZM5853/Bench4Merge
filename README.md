@@ -78,6 +78,9 @@ This article uses the Alibaba Q-wen 70B large model as the evaluation, and the p
 ```bash
     python evaluate.py
 ```
+LLM will give you the overall score of your method.
+
+Welcome to make more optimizations on our basis to assist in the application of evaluation benchmarks for LLM.
 
 
 
