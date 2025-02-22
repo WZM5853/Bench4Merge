@@ -85,7 +85,25 @@ LLM will give you the overall score of your method.
 Welcome to make more optimizations on our basis to assist in the application of evaluation benchmarks for LLM.
 
 
+## Citation <a name="citation"></a>
 
+Please consider citing our papers if the project helps your research with the following BibTex:
+
+```bibtex
+@inproceedings{jia2024bench,
+  title={Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving},
+  author={Xiaosong Jia and Zhenjie Yang and Qifeng Li and Zhiyuan Zhang and Junchi Yan},
+  booktitle={NeurIPS 2024 Datasets and Benchmarks Track},
+  year={2024}
+}
+
+@inproceedings{li2024think,
+  title={Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)},
+  author={Qifeng Li and Xiaosong Jia and Shaobo Wang and Junchi Yan},
+  booktitle={ECCV},
+  year={2024}
+}
+```
 
 
 
