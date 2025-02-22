@@ -1,5 +1,6 @@
 # Bench4Merge
 A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles
+The main text can be obtained from this link: [Bench4Merge](https://arxiv.org/abs/2410.15912)
 
 <h2 align="center">
   <img src='./result/figure/overall.jpg'>
@@ -14,7 +15,7 @@ What can Bench4Merge provide ?<b> Click to view the video.</b>
 [![Bench4Merge]('./result/figure/overall.jpg')](https://youtu.be/2ZBHL5UC4_c?si=Hw3YmFOiFiDbqxZ5 "Bench4Merge")
 
 # Dataset
-In order to train main road vehicles in dense traffic environments, we extracted over 500000 following segments that meet the requirements of dense traffic scenarios from three public traffic datasets. Based on this, we trained and obtained the micro interaction behavior of main road vehicles mentioned in this article.
+In order to train main lane vehicles in dense traffic environments, we extracted over 500000 following segments that meet the requirements of dense traffic scenarios from three public traffic datasets. Based on this, we trained and obtained the micro interactive behavior of main lane vehicles mentioned in this work.
 
 Each data sample contains information about the **Target Vehicle, Leading Vehicle, Interactive Vehicle, and the Map Information**. Each vehicle is represented by an **11-dimensional vector**, which corresponds to the following parameters in order: 
 
