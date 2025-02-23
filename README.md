@@ -55,7 +55,7 @@ How to use the Bench4Merge?
 
   - Second, run the merging process base on the initial environment
     ```bash
-        python create_init.py
+        python test_overall.py
     ```
     We provide three implemented methods for comparison: RL method, RL combined with MPC method, and optimization based method. You can implement your personal algorithm based on this framework and compare with them.
 
