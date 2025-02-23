@@ -13,7 +13,11 @@ What can Bench4Merge provide ?<b> Click to view the video.</b>
 <b>&#x2193;&#x2193;&#x2193;</b>
 </h2>
 
-[![Bench4Merge]('./result/figure/overall.jpg')](https://youtu.be/2ZBHL5UC4_c?si=Hw3YmFOiFiDbqxZ5 "Bench4Merge")
+<h2 align="center">
+  <img src='./result/figure/cover.png'>
+</h2>
+
+[Bench4Merge-Video](https://youtu.be/2ZBHL5UC4_c?si=Hw3YmFOiFiDbqxZ5)
 
 # Dataset
 In order to train main lane vehicles in dense traffic environments, we extracted over 500000 following segments that meet the requirements of dense traffic scenarios from three public traffic datasets. Based on this, we trained and obtained the micro interactive behavior of main lane vehicles mentioned in this work.
@@ -90,17 +94,10 @@ Welcome to make more optimizations on our basis to assist in the application of 
 Please consider citing our papers if the project helps your research with the following BibTex:
 
 ```bibtex
-@inproceedings{jia2024bench,
-  title={Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving},
-  author={Xiaosong Jia and Zhenjie Yang and Qifeng Li and Zhiyuan Zhang and Junchi Yan},
-  booktitle={NeurIPS 2024 Datasets and Benchmarks Track},
-  year={2024}
-}
-
-@inproceedings{li2024think,
-  title={Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)},
-  author={Qifeng Li and Xiaosong Jia and Shaobo Wang and Junchi Yan},
-  booktitle={ECCV},
+@article{wang2024bench4merge,
+  title={Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles},
+  author={Wang, Zhengming and Wang, Junli and Li, Pengfei and Li, Zhaohan and Li, Peng and Chen, Yilun},
+  journal={arXiv preprint arXiv:2410.15912},
   year={2024}
 }
 ```
