@@ -57,10 +57,9 @@ How to use the Bench4Merge?
     ```bash
         python create_init.py
     ```
-
     We provide three implemented methods for comparison: RL method, RL combined with MPC method, and optimization based method. You can implement your personal algorithm based on this framework and compare with them.
 
-    The existing model files can be obtained at：
+    The existing model files is **Model_Hiera_RL.zip** and **Model_RL_DDPG.zip**, Corresponding to two RL methods respectively, you can invoke them in test-overall.py.
 
   - Third, observe and analyze the merging process
     The vehicle's trajectory is saved in:
