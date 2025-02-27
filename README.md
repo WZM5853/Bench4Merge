@@ -3,7 +3,13 @@ A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Inte
 
 <h1 align="center">Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles</h1>
 
-Main text can be obtained from this link: [Bench4Merge](https://arxiv.org/abs/2410.15912)
+<!-- Main text can be obtained from this link: [Bench4Merge](https://arxiv.org/abs/2410.15912) -->
+
+<p align="center">
+<a href="https://arxiv.org/abs/2410.15912"><img src="https://img.shields.io/badge/arXiv-Dual_AEB-green"></a>
+<a href="https://youtu.be/2ZBHL5UC4_c?si=Hw3YmFOiFiDbqxZ5"><img src="https://img.shields.io/badge/YouTube-Video-red?logo=video"></a>
+<!-- <a href="https://github.com/ChipsICU/Dual-AEB/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a> -->
+</p>
 
 <h2 align="center">
   <img src='./result/figure/overall.jpg'>
