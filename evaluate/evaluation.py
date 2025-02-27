@@ -161,7 +161,8 @@ else:
 import random
 from http import HTTPStatus
 import dashscope
-dashscope.api_key="sk-0a81349e855d4bacbed401b6d7e6cbb9"
+dashscope.api_key="sk-*******************"
+#make your own api to test
 
 def call_stream_with_messages(type):
     type = type

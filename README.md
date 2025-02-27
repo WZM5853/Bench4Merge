@@ -1,5 +1,7 @@
-# Bench4Merge
-A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles
+<!-- # Bench4Merge
+A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles -->
+
+<h1 align="center">Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles</h1>
 
 Main text can be obtained from this link: [Bench4Merge](https://arxiv.org/abs/2410.15912)
 
