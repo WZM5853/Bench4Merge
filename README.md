@@ -8,7 +8,7 @@ A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Inte
 <p align="center">
 <a href="https://arxiv.org/abs/2410.15912"><img src="https://img.shields.io/badge/arXiv-Bench4Merge-green"></a>
 <a href="https://youtu.be/2ZBHL5UC4_c?si=Hw3YmFOiFiDbqxZ5"><img src="https://img.shields.io/badge/YouTube-Video-red?logo=video"></a>
-<!-- <a href="https://github.com/ChipsICU/Dual-AEB/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a> -->
+<a href="https://github.com/WZM5853/Bench4Merge/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
 <h2 align="center">
