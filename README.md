@@ -11,7 +11,7 @@ A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Inte
 <a href="https://github.com/WZM5853/Bench4Merge/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-<h4 align="center"><em><a href="https://github.com/ChipsICU">Wei Zhang</a>*,
+<h4 align="center"><em><a href="https://github.com/WZM5853">Zhengming Wang</a>*,
 <a href="https://github.com/wjl2244">Junli Wang</a>,  
 <a href="https://github.com/Philipflyg">Pengfei Li</a>,
 <a href="#">Zhaohan Li</a>, 
@@ -34,7 +34,7 @@ A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Inte
 
 Comprehensively evaluating the capabilities of autonomous driving systems presents a significant challenge, particularly in densely interactive scenarios. Bench4Merge offers an innovative approach. Firstly, it introduces an initial scenario extractor based on real-world data to derive representative driving scenarios. Secondly, the traffic participants within the environment are derived from large-scale training, enabling the accurate simulation of microscopic interaction behaviors. Finally, we have designed an evaluator based on a large language model (LLM), which is capable of assigning quantitative scores to the driving performance of autonomous vehicles and identifying potential optimization pathways.
 
-# Dataset <a name="citation"></a>
+## Dataset <a name="citation"></a>
 In order to train main lane vehicles in dense traffic environments, we extracted over 500000 following segments that meet the requirements of dense traffic scenarios from three public traffic datasets. Based on this, we trained and obtained the micro interactive behavior of main lane vehicles mentioned in this work.
 
 Each data sample contains information about the **Target Vehicle, Leading Vehicle, Interactive Vehicle, and the Map Information**. Each vehicle is represented by an **11-dimensional vector**, which corresponds to the following parameters in order: 
@@ -45,7 +45,7 @@ Each data sample contains information about the **Target Vehicle, Leading Vehicl
 
 To achieve the .pkl data, please clink this link: [Main-Lane-Vehicle-Training-Data](https://pan.baidu.com/s/1Bq9lTYoVndZYVuZ2KnXLfg?pwd=m7nx)
 
-# Using Process <a name="citation"></a>
+## Using Process <a name="citation"></a>
 How to use the Bench4Merge?
   - First, generate an initial environment
     ```bash
