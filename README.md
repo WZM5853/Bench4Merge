@@ -15,18 +15,6 @@ A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Inte
   <img src='./result/figure/overall.jpg'>
 </h2>
 
-<h2 align="center">
-What can Bench4Merge provide ?<b> Click to view the video.</b>
-<br>
-<b>&#x2193;&#x2193;&#x2193;</b>
-</h2>
-
-<h2 align="center">
-  <img src='./result/figure/cover.png'>
-</h2>
-
-[Bench4Merge-Video](https://youtu.be/2ZBHL5UC4_c?si=Hw3YmFOiFiDbqxZ5)
-
 # Dataset <a name="citation"></a>
 In order to train main lane vehicles in dense traffic environments, we extracted over 500000 following segments that meet the requirements of dense traffic scenarios from three public traffic datasets. Based on this, we trained and obtained the micro interactive behavior of main lane vehicles mentioned in this work.
 
