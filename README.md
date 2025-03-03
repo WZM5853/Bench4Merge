@@ -11,9 +11,28 @@ A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Inte
 <a href="https://github.com/WZM5853/Bench4Merge/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
+<h4 align="center"><em><a href="https://github.com/ChipsICU">Wei Zhang</a>*,
+<a href="https://github.com/wjl2244">Junli Wang</a>,  
+<a href="https://github.com/Philipflyg">Pengfei Li</a>,
+<a href="#">Zhaohan Li</a>, 
+<a href="#">Chunyang Liu</a>, 
+<a href="#">Bo Zhang</a>📧</em>, 
+<a href="#">Peng Li</a>📧</em>, 
+<a href="#">Yilun Chen</a>, 
+</h4>
+
+<h5 align="center">
+<br>📧 indicates corresponding authors.<br>
+<b > AIR, Tsinghua University &nbsp; | &nbsp; Didi Chuxing &nbsp; | &nbsp; Zhejiang University &nbsp; | &nbsp; CASIA <b >
+<a><img align="center" src="./result/figure/Bench4Merge_Author_Affiliation.png" width="100%"/></a>
+</h5>
+
+## Abstract
 <h2 align="center">
   <img src='./result/figure/overall.jpg'>
 </h2>
+
+Comprehensively evaluating the capabilities of autonomous driving systems presents a significant challenge, particularly in densely interactive scenarios. Bench4Merge offers an innovative approach. Firstly, it introduces an initial scenario extractor based on real-world data to derive representative driving scenarios. Secondly, the traffic participants within the environment are derived from large-scale training, enabling the accurate simulation of microscopic interaction behaviors. Finally, we have designed an evaluator based on a large language model (LLM), which is capable of assigning quantitative scores to the driving performance of autonomous vehicles and identifying potential optimization pathways.
 
 # Dataset <a name="citation"></a>
 In order to train main lane vehicles in dense traffic environments, we extracted over 500000 following segments that meet the requirements of dense traffic scenarios from three public traffic datasets. Based on this, we trained and obtained the micro interactive behavior of main lane vehicles mentioned in this work.
